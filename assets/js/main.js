@@ -276,7 +276,7 @@ flatpickr("input[type=datetime-local]", {
   defaultMin: "00",
   enableTime: true,
   time_24hr: false,
-  minTime: "09:00",
+  minTime: "10:00",
   maxTime: "17:30",
   altInput: true,
   minDate: "today",
